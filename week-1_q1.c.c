@@ -12,10 +12,10 @@ int main()
 {
     
     float Name, Regd , Branch , Hobbiess;
-    printf("Name:Sonali Sahoo\n");
-    printf("Regd:070\n");
-    printf("Branch:Eletrical Engineering\n");
-    printf("Hobbies: Drawing,Dancing\n");
+    printf("Name:\n");
+    printf("Regd:\n");
+    printf("Branch:\n");
+    printf("Hobbies:\n");
     return 0;
 }
 
